@@ -1,0 +1,23 @@
+[33mcommit e28f0c91275d2d001f6134b690f4dc4a311c5c7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Juan Yepes <juan.yepes@udla.edu.ec>
+Date:   Fri May 22 14:56:48 2026 -0500
+
+    Eliminar ejecutable y agregar gitignore
+
+[33mcommit eee970715131a5638b288c6a74328b6babea67ab[m
+Author: Juan Yepes <juan.yepes@udla.edu.ec>
+Date:   Fri May 22 14:55:53 2026 -0500
+
+    Ignorar ejecutables
+
+[33mcommit 07a7f76efd650c3fc4fe5e6bcd9148d8e035e090[m
+Author: Juan Yepes <juan.yepes@udla.edu.ec>
+Date:   Fri May 22 14:53:05 2026 -0500
+
+    size of agregado
+
+[33mcommit 74423990d587cd59acec405afe24565e1b55a9c3[m
+Author: Juan Yepes <juan.yepes@udla.edu.ec>
+Date:   Fri May 22 14:35:15 2026 -0500
+
+    codigo semilla del ejercicio
